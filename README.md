@@ -1,4 +1,4 @@
-# Recognize-Audio-Quantization
+# Recognize Audio Quantization
 
 ### Invastigate a given .wav file
 
