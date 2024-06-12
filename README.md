@@ -1,6 +1,6 @@
 # Recognize Audio Quantization
 
-### Invastigate a given .wav file
+### Investigate a given .wav file
 
 * Input is a .wav file.
 * Extract duration, sample rate, value range and percentage of realized values.
